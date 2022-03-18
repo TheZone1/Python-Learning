@@ -1,0 +1,5 @@
+
+Salesman - Jimmy
+Worker - Carlo
+Clerk - Brian
+Manager - Matty
